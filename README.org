@@ -1,0 +1,43 @@
+* description
+  Setup basic mac development environment
+* prerequestment
+  Many packages are installing from source. so you need to install xcode and its
+  command line tools first to compile some source code.
+* install
+  #+BEGIN_SRC bash
+  \curl -sSL https://raw.github.com/ripple0328/mac-develop-packages/brewrc.sh | bash
+  #+END_SRC
+* what it setup
+** command tools  
+  * zsh
+  * bash-completion
+** ruby
+  * rvm
+  * ruby (latest)
+** rails
+  * mysql
+  * postgres
+  * rails (latest)
+  * rails_composer
+  * railsrc
+** js    
+  * nodejs
+  * npm
+  * phantomjs  
+  * karma
+  * requirejs
+  * yo
+  * bower
+  * grunt
+** software    
+  * iterm2
+  * alfred
+  * caffeine
+  * dash
+  * colors
+  * google-chrome
+  * firefox
+  * textmate
+  * rubymine
+* package manager
+  using brew and brew cask as it's package manager
