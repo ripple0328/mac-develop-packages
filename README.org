@@ -15,6 +15,7 @@
 * what it setup
 ** command tools  
   * zsh
+  * tmux
   * bash-completion
 ** ruby
   * rvm
@@ -23,7 +24,7 @@
   * mysql
   * postgres
   * rails (latest)
-  * rails_composer
+  * rails-composer
   * railsrc
 ** js    
   * nodejs
