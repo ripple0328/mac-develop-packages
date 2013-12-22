@@ -7,6 +7,9 @@
   #+BEGIN_SRC bash
   \curl -sSL https://raw.github.com/ripple0328/mac-develop-packages/brewrc.sh | bash
   #+END_SRC
+
+  the recipes is quite strainght to understand. so feel free to fork and edit
+  your own package.
 * what it setup
 ** command tools  
   * zsh
