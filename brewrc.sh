@@ -10,7 +10,7 @@ check-and-brew-install wget
 check-and-brew-install zsh
 check-and-brew-install bash-completion
 check-and-brew-install tmux
-
+check-and-brew-install imagemagick
 # in case you want to use powerline you can install this patched font
 # install-Inconsolata-powerline-font 
 

@@ -17,6 +17,7 @@
   * zsh
   * tmux
   * bash-completion
+  * imagemagick
 ** ruby
   * rvm
   * ruby (latest)
