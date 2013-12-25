@@ -13,6 +13,9 @@
   the recipes is quite strainght to understand. so feel free to fork and edit
   your own package.
 * what it setup
+** package manager
+  * brew
+  * brew cask
 ** command tools  
   * zsh
   * tmux
@@ -29,8 +32,8 @@
   * railsrc
   * [[http://pow.cx][pow]]
 ** js    
-  * nodejs
   * npm
+  * nodejs
   * phantomjs  
   * karma
   * requirejs
@@ -47,7 +50,6 @@
   * firefox
   * textmate
   * rubymine
-  * [[http://anvilformac.com][anvil]]
 * package manager
   using brew and brew cask as it's package manager
 * depedencies

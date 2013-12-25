@@ -47,8 +47,6 @@ check-and-cask-install google-chrome
 check-and-cask-install firefox
 check-and-cask-install textmate
 check-and-cask-install rubymine
-check-and-cask-install anvil
-
 install_pow
 
 
