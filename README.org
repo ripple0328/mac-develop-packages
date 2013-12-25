@@ -50,6 +50,7 @@
   * firefox
   * textmate
   * rubymine
+  * vagrant
 * package manager
   using brew and brew cask as it's package manager
 * depedencies
