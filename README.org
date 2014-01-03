@@ -19,6 +19,7 @@
 ** command tools  
   * zsh
   * tmux
+  * tmate
   * bash-completion
   * imagemagick
 ** ruby
@@ -43,6 +44,7 @@
 ** software    
   * iterm2
   * alfred
+  * skype
   * caffeine
   * dash
   * colors

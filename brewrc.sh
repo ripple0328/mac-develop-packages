@@ -11,6 +11,7 @@ check-and-brew-install wget
 check-and-brew-install zsh
 check-and-brew-install bash-completion
 check-and-brew-install tmux
+install-tmate
 check-and-cask-install XQuartz
 check-and-brew-install imagemagick
 # in case you want to use powerline you can install this patched font
@@ -41,14 +42,16 @@ check-and-npm-install grunt
 #software
 check-and-cask-install iterm2
 check-and-cask-install alfred
+check-and-cask-install skype
 check-and-cask-install caffeine
 check-and-cask-install dash
 check-and-cask-install colors
 check-and-cask-install google-chrome
 check-and-cask-install firefox
-check-and-cask-install textmate
+zshcheck-and-cask-install textmate
 check-and-cask-install rubymine
 check-and-cask-install vagrant
+
 install_pow
 
 
