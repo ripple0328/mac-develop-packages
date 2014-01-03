@@ -3,7 +3,8 @@
 cd $HOME
 
 # this tools is depending on the mac-instlall-utils
-\curl -sSL https://raw.github.com/ripple0328/mac-install-utils/master/install-utils.sh | bash
+
+source /dev/stdin  <<< "$(curl -sSL https://raw.github.com/ripple0328/mac-install-utils/master/install-utils.sh)"
 
 # tools
 check-and-brew-install wget
