@@ -11,9 +11,12 @@ check-and-brew-install wget
 check-and-brew-install zsh
 check-and-brew-install bash-completion
 check-and-brew-install tmux
+check-and-brew-install watch
 install-tmate
 check-and-cask-install XQuartz
 check-and-brew-install imagemagick
+check-and-gem-install lunchy
+
 # in case you want to use powerline you can install this patched font
 # install-Inconsolata-powerline-font 
 
@@ -24,8 +27,11 @@ install-rvm # will Install a latest ruby and rails inside
 check-and-brew-install mysql
 check-and-brew-install postgresql
 check-and-brew-install postgis
+check-and-brew-install redis
+check-and-brew-install qt
 check-and-gem-install rails-composer
 \curl -o .railsrc https://gist.github.com/ripple0328/8079236/raw/86c5cf7a3aad9bf58601c84c0eaf0113254c6d0b/.railsrc.txt
+check-and-gem-install heroku-toolbelt
 
 # js
 check-and-brew-install node
