@@ -30,7 +30,7 @@ check-and-brew-install postgis
 check-and-brew-install redis
 check-and-brew-install qt
 check-and-gem-install rails-composer
-\curl -o .railsrc https://gist.github.com/ripple0328/8079236/raw/86c5cf7a3aad9bf58601c84c0eaf0113254c6d0b/.railsrc.txt
+\curl -so.railsrc https://gist.github.com/ripple0328/8079236/raw/86c5cf7a3aad9bf58601c84c0eaf0113254c6d0b/.railsrc.txt
 check-and-gem-install heroku-toolbelt
 install-pow
 
