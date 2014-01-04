@@ -4,7 +4,7 @@ cd $HOME
 
 # this tools is depending on the mac-instlall-utils
 
-source /dev/stdin  <<< "$(curl -sSL https://raw.github.com/ripple0328/mac-install-utils/master/install-utils.sh)"
+source /dev/stdin  <<< "$(curl -sSL https://raw.github.com/ripple0328/mac-install-utils/master/basic-environment-installation.sh)"
 
 # tools
 check-and-brew-install wget
@@ -32,6 +32,7 @@ check-and-brew-install qt
 check-and-gem-install rails-composer
 \curl -o .railsrc https://gist.github.com/ripple0328/8079236/raw/86c5cf7a3aad9bf58601c84c0eaf0113254c6d0b/.railsrc.txt
 check-and-gem-install heroku-toolbelt
+install-pow
 
 # js
 check-and-brew-install node
@@ -57,7 +58,3 @@ check-and-cask-install firefox
 zshcheck-and-cask-install textmate
 check-and-cask-install rubymine
 check-and-cask-install vagrant
-
-install_pow
-
-
