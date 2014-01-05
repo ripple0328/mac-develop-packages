@@ -12,6 +12,7 @@ check-and-brew-install zsh
 check-and-brew-install bash-completion
 check-and-brew-install tmux
 check-and-brew-install watch
+check-and-brew-install the_silver_searcher
 install-tmate
 check-and-cask-install XQuartz
 check-and-brew-install imagemagick
@@ -23,6 +24,12 @@ check-and-gem-install homesick
 
 # ruby
 install-rvm # will Install a latest ruby and rails inside
+check-and-gem-install rubocop
+check-and-gem-install awesome_print
+check-and-gem-install pry
+check-and-gem-install pry-doc
+check-and-gem-install byebug
+check-and-gem-install method_source
 
 # rails
 check-and-brew-install mysql
@@ -34,10 +41,13 @@ check-and-gem-install rails-composer
 \curl -so.railsrc https://gist.github.com/ripple0328/8079236/raw/86c5cf7a3aad9bf58601c84c0eaf0113254c6d0b/.railsrc.txt
 check-and-gem-install heroku-toolbelt
 install-pow
+check-and-gem-install access_lint
+check-and-npm-install csslint
 
 # js
 check-and-brew-install node
 check-and-brew-install phantomjs
+check-and-brew-install jslint
 
 check-and-npm-install karma
 check-and-npm-install requirejs
