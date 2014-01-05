@@ -36,6 +36,7 @@
   * watch
   * tmate
   * lunchy
+  * homesick
   * bash-completion
   * imagemagick
 ** ruby
