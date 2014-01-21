@@ -16,6 +16,8 @@ check-and-brew-install the_silver_searcher
 install-tmate
 check-and-cask-install XQuartz
 check-and-brew-install imagemagick
+install-rvm # will Install a latest ruby and rails inside
+check-and-brew-install node
 check-and-gem-install lunchy
 check-and-gem-install homesick
 check-and-gem-install tree
@@ -24,7 +26,6 @@ check-and-gem-install tree
 # install-Inconsolata-powerline-font 
 
 # ruby
-install-rvm # will Install a latest ruby and rails inside
 check-and-gem-install rubocop
 check-and-gem-install awesome_print
 check-and-gem-install pry
@@ -46,7 +47,6 @@ check-and-gem-install access_lint
 check-and-npm-install csslint
 
 # js
-check-and-brew-install node
 check-and-brew-install phantomjs
 check-and-brew-install jslint
 
