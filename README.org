@@ -20,7 +20,7 @@
   
 * install
   #+BEGIN_SRC bash
-  \curl -sSL https://raw.github.com/ripple0328/mac-develop-packages/brewrc.sh | bash
+  \curl -sSL https://raw.github.com/ripple0328/mac-develop-packages/master/brewrc.sh | bash
   #+END_SRC
 
   the recipes is quite strainght to understand. so feel free to fork and edit

@@ -18,6 +18,7 @@ check-and-cask-install XQuartz
 check-and-brew-install imagemagick
 check-and-gem-install lunchy
 check-and-gem-install homesick
+check-and-gem-install tree
 
 # in case you want to use powerline you can install this patched font
 # install-Inconsolata-powerline-font 
