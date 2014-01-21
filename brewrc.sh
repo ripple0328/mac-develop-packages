@@ -67,6 +67,6 @@ check-and-cask-install dash
 check-and-cask-install colors
 check-and-cask-install google-chrome
 check-and-cask-install firefox
-zshcheck-and-cask-install textmate
+check-and-cask-install textmate
 check-and-cask-install rubymine
 check-and-cask-install vagrant
