@@ -8,7 +8,6 @@ source /dev/stdin  <<< "$(curl -sSL https://raw.github.com/ripple0328/mac-instal
 
 # tools
 check-and-brew-install wget
-check-and-brew-install zsh
 check-and-brew-install bash-completion
 check-and-brew-install tmux
 check-and-brew-install watch
