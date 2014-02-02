@@ -80,6 +80,7 @@
   * textmate
   * rubymine
   * vagrant
+  * whatpulse
 * package manager
   using brew and brew cask as it's package manager
 * depedencies
