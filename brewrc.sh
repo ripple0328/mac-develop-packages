@@ -20,9 +20,10 @@ check-and-brew-install node
 check-and-gem-install lunchy
 check-and-gem-install homesick
 check-and-gem-install tree
-
 # in case you want to use powerline you can install this patched font
 # install-Inconsolata-powerline-font 
+check-and-install-brew-repo jimbojsb/launchrocket
+check-and-cask-install launchrocket
 
 # ruby
 check-and-gem-install rubocop

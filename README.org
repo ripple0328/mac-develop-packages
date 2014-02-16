@@ -29,6 +29,7 @@
 ** package manager
   * brew
   * brew cask
+  * launchrocket
 ** command tools  
   * wget
   * zsh
