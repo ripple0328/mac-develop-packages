@@ -82,6 +82,7 @@
   * rubymine
   * vagrant
   * whatpulse
+  * flux
 * package manager
   using brew and brew cask as it's package manager
 * depedencies
