@@ -4,7 +4,7 @@ cd $HOME
 
 # this tools is depending on the mac-instlall-utils
 
-source /dev/stdin  <<< "$(curl -sSL https://raw.github.com/ripple0328/mac-install-utils/master/basic-environment-installation.sh)"
+source /dev/stdin  <<< "$(curl -sSL https://raw.githubusercontent.com/ripple0328/mac-install-utils/master/basic-environment-installation.sh)"
 
 # tools
 check-and-brew-install wget
